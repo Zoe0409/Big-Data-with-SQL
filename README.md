@@ -1,3 +1,5 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FZoe0409%2FFashion-Image-Recognitionhttps%3A%2F%2Fgithub.com%2FZoe0409%2FBig-Data-with-SQL)
+
 # Big-Data-with-SQL
 
 This contains the study resource from the coursera course "Big Data with SQL" https://www.coursera.org/learn/analytics-mysql/home/welcome , which is the fourth course in the Specialization: Excel to MySQL: Analytics Techniques for Business.
